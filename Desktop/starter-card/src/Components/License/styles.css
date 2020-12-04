@@ -1,0 +1,39 @@
+.license{
+    width: 460 px;
+   display: flex;
+    border-radius: 6px;
+    border: 1px solid black;
+    font-family:sans-serif ;
+    background-color: #6699cc  ;
+}
+
+.img{
+    width: 200px; 
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.license-info{
+    text-align: left;
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+p,h2{
+    margin :0;
+
+}
+
+h2{
+    padding: 10px 0; 
+}
+
+.license-age{
+    font-style: italic ;
+    font-size: 12px;
+    padding-bottom: 15px;
+    color: black;
+}
